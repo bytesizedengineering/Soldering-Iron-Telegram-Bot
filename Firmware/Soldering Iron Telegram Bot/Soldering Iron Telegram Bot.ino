@@ -7,10 +7,10 @@
 //#include <ArduinoJson.h>
 
 // Wifi network station credentials
-#define WIFI_SSID "NETGEAR46"
-#define WIFI_PASSWORD "niftymint292"
+#define WIFI_SSID "NETWORK"
+#define WIFI_PASSWORD "password"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "5885111037:AAFv2pH71JeLCgWqxXb7wIhY8sOLhfZe-D0"
+#define BOT_TOKEN "XXXXXXXXXX:00000000000000000000000000000000000"
 String chat_id;
 const char *telegramMessage[] =
 {"Hey, genius! You've left me on and I'm burning up here. Turn me off before I burn a hole in your workbench.",
